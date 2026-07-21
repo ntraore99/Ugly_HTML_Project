@@ -1,0 +1,43 @@
+h1{
+    text-align:center;
+    color:rgb(255, 236, 65);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(72, 72, 182);
+    padding: 15px;
+}
+body{
+    color:white;
+    font-family:serif;
+    background-color:black;
+}
+
+.pokemon_images{
+    display: block;
+    margin:auto;
+}
+
+#charmander_container{
+    background-color: orange;
+    border: 3px solid white;
+    border-radius: 15px;
+    padding:20px;
+}
+
+#bulbasaur_container{
+    background-color: rgb(86, 219, 142);
+    border: 3px solid white;
+    border-radius: 15px;
+    padding:20px;
+}
+
+#squirtle_container{
+    background-color: rgb(147, 203, 255);
+    border: 3px solid white;
+    border-radius: 15px;
+    padding:20px;
+}
+
+#starters_image_div{
+    padding: 4px;
+    border: 5px solid rgba(144, 188, 255, 0.466)
+}
